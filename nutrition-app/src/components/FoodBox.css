@@ -1,0 +1,29 @@
+.media{
+    display: flex;
+    width: 45vw;
+    justify-content: space-between;
+}
+.field{
+display: flex;
+margin-left: 15%;
+}
+.media-right{
+    display: flex;
+    align-items: center;
+}
+.control{
+    margin-left: 5px;
+}
+.right-data{
+    display: flex;
+    width: 17vw;
+    justify-content: space-between;
+    height: 8vh;
+    align-items: center;
+}
+.box{
+    display: flex;
+    justify-content:space-evenly ;}
+.reset{
+    height: 40%;
+}
